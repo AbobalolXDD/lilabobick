@@ -1,0 +1,113 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    padding: 6px;
+    background-color: rgb(171, 227, 250);
+    border-radius: 12px
+}
+
+header a {
+    padding: 4px;
+    background-color: white;
+    border-radius: 6px;
+    text-decoration: none;
+    color: darkblue;
+}
+
+main h1 {
+    color:blueviolet;
+    text-align: center;
+}
+
+footer p {
+    background-color: skyblue;
+    padding: 5px;
+}
+
+.delivery {
+    padding: 4px;
+    margin: 15px;
+    border-radius: 10px;
+    background-color: darkblue;
+    text-decoration: none;
+    color: white;
+}
+
+.wholesale {
+    padding: 4px;
+    margin: 15px;
+    border-radius: 10px;
+    background-color: darkblue;
+    text-decoration: none;
+    color: white;
+}
+
+.about_us {
+    padding: 4px;
+    margin: 15px;
+    border-radius: 10px;
+    background-color: darkblue;
+    text-decoration: none;
+    color: white;
+}
+
+.price {
+    padding: 4px;
+    margin: 15px;
+    border-radius: 10px;
+    background-color: white;
+    text-decoration: none;
+    color: darkblue;
+    border: 2px solid darkblue;
+}
+
+main nav {
+    margin: 15px;
+}
+
+.brskibididopdopdopyesyes {
+    border: 3px solid darkblue;
+    background-color: white;
+    border-radius: 15px;
+    padding: 4px;
+}
+
+.brskibididopdopdopyesyes2 {
+    border: 3px solid darkblue;
+    background-color: white;
+    border-radius: 15px;
+    padding: 4px;
+}
+
+.brskibididopdopdopyesyes3 {
+    border: 3px solid darkblue;
+    background-color: white;
+    border-radius: 15px;
+    padding: 4px;
+}
+
+.brskibididopdopdopyesyes4 {
+    border: 3px solid darkblue;
+    background-color: white;
+    border-radius: 15px;
+    padding: 4px;
+}
+
+body p {
+    font-size: 20px
+}
+
+main h2 {
+    color:blueviolet;
+    font-size: 30px
+}
+
+main a {
+    text-decoration: none;
+    border: 3px solid darkblue;
+    border-radius: 15px;
+    padding: 6px;
+    color: darkblue;
+}
